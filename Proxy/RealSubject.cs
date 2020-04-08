@@ -6,7 +6,7 @@ namespace Proxy
     {
         public override void Requisicao()
         {
-            Console.WriteLine("Chamando RealSubject.Request()");
+            Console.WriteLine("Chamando RealObject.Request()");
         }
     }
 }
