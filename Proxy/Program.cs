@@ -8,6 +8,8 @@ namespace Proxy
         {
             Proxy proxy = new Proxy();
             proxy.Requisicao();
+
+            Console.ReadKey();
         }
     }
 }

@@ -8,6 +8,8 @@
         {
             if (realSubject == null)
                 realSubject = new RealSubject();
+
+            realSubject.Requisicao();
         }
     }
 }
